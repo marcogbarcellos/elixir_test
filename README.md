@@ -5,6 +5,7 @@ Project to simply show the basic features of the Elixir Language. This Readme wi
 ## Notes
 
   ## Why using recursion in elixir/erlang is not as bad as it is in most OO languages(in some cases)
+
     A tail call function is a function which call another functions as its last thing:
 
     ```
